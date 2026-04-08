@@ -101,6 +101,4 @@
 
 ---
 
-[![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=100&color=4A7FD4&center=true&width=600&lines=malloc+%F0%9F%94%97;segfault+%E2%9B%93%EF%B8%8F%E2%80%8D%F0%9F%92%A5;repeat+%5C_(` o_O)_%2F+)](https://github.com/NinoHrq)
-
 [![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1e2a4a,50:1a2f5e,100:1a3a7a&height=120&section=footer&animation=fadeIn)](https://github.com/NinoHrq)
