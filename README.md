@@ -91,7 +91,6 @@
 ## ▸ Languages
 
 [![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NinoHrq&theme=github_dark&cache_seconds=86400)](https://github.com/NinoHrq)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NinoHrq&theme=github_dark&cache_seconds=86400)](https://github.com/NinoHrq)
 
 ---
 
