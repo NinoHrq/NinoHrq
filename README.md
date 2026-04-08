@@ -2,7 +2,7 @@
 
 [![header](https://capsule-render.vercel.app/api?type=waving&color=0:1e2a4a,50:1a2f5e,100:1a3a7a&height=180&section=header&animation=twinkling)](https://github.com/NinoHrq)
 
-[![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=800&color=FFFFFF&center=true&vCenter=true&width=700&height=70&lines=Hey%2C+I'm+Nino;42+Paris+Student;Future+DevOps+%2F+Cloud+Engineer)](https://github.com/NinoHrq)
+[![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=800&color=FFFFFF&center=true&vCenter=true&width=700&height=70&lines=Hey%2C+I'm+Nour;42+Paris+Student;Future+DevOps+%2F+Cloud+Engineer)](https://github.com/NinoHrq)
 
 [![42 Paris](https://img.shields.io/badge/42%20Paris-111827?style=flat-square&logo=42&logoColor=7ab3ff)](https://42paris.fr)
 &nbsp;
