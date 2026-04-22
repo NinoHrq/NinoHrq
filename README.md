@@ -27,7 +27,7 @@
 
 <div align="center">
 
-[![skills](https://skillicons.dev/icons?i=c,cpp,python,bash,linux,docker,git,github)](https://github.com/NinoHrq)
+[![skills](https://skillicons.dev/icons?i=c,cpp,python,js,bash,linux,docker,git,github)](https://github.com/NinoHrq)
 
 </div>
 
