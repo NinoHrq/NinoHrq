@@ -84,7 +84,7 @@
 &nbsp;
 [![Inception](https://img.shields.io/badge/Inception-111827?style=flat-square&logo=github&logoColor=7ab3ff)](https://github.com/NinoHrq/Inception)
 &nbsp;
-[![Transcendence](https://img.shields.io/badge/Transcendence-111827?style=flat-square&logo=github&logoColor=555555)](https://github.com/NinoHrq/Transcendance)
+[![Transcendence](https://img.shields.io/badge/Transcendence-111827?style=flat-square&logo=github&logoColor=7ab3ff)](https://github.com/NinoHrq/Transcendance)
 &nbsp;
 
 ---
